@@ -404,13 +404,13 @@ a {
 
   }
 
-  .menu li a {
+  .menu li{
     background: #f5f5f5;
     padding: 10px 20px;
     border-radius: 4px;
     align-content: center;
     flex-wrap: wrap;
-    gap: 50px;
+    
 
   }
 
@@ -531,7 +531,7 @@ a {
 
   .menu{
     display: flex;
-    gap:30px;
+    gap:10px;
     justify-content: center;
   }
 
